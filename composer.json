@@ -34,7 +34,9 @@
         "drupal/pathauto": "^1.8",
         "drupal/profile": "^1.1",
         "drupal/radix_layouts": "^4.1",
-        "drupal/views_bootstrap": "^4"
+        "drupal/swiftmailer": "^2.0@beta",
+        "drupal/views_bootstrap": "^4",
+        "drupal/webform": "^5.19"
     },
     "conflict": {
         "drupal/drupal": "*"
